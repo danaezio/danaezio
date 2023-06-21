@@ -1,6 +1,6 @@
-### Hi there 👋
+# HI THERE!👋 I'M DANIEL, VR/AR DEVELOPER AT [ITPRO](https://itpro.moscow/)
 
-# 💻 Tech Stack:
+### 💻 TECH STACK:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=Unity&logoColor=white) 
 ![Rider](https://img.shields.io/badge/Rider-%23000000.svg?style=for-the-badge&logo=Rider&logoColor=white) 
@@ -11,7 +11,7 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 	
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-# 📊 GitHub Stats:
+### 📊 GITHUB STATS:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danaezio&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danaezio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
