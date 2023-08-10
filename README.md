@@ -11,6 +11,7 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 	
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 	
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+---
 ### 📊 GITHUB STATS:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=danaezio&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danaezio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
