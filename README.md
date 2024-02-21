@@ -1,4 +1,4 @@
-# HI THERE!👋 I'M DANIEL, UNITY TECH ARTIST
+# HI THERE!👋 I'M DANIEL, UNITY TECH ARTIST AT [OPEN TECHNOLOGIES](https://opentechnology.pro)
 
 ### 💻 TECH STACK:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
